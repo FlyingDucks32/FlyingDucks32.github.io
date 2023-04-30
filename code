@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Worldwide Musical Tutors</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</head>
+<body>
+	<!-- Navigation Bar -->
+	<nav class="navbar navbar-expand-md bg-dark navbar-dark">
+	  <a class="navbar-brand" href="#">Worldwide Musical Tutors</a>
+	  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+	    <span class="navbar-toggler-icon"></span>
+	  </button>
+	  <div class="collapse navbar-collapse" id="collapsibleNavbar">
+	    <ul class="navbar-nav">
+	      <li class="nav-item">
+	        <a class="nav-link" href="#">Home</a>
+	      </li>
+	      <li class="nav-item">
+	        <a class="nav-link" href="#">About</a>
+	      </li>
+	      <li class="nav-item">
+	        <a class="nav-link" href="#">Tutors</a>
+	      </li>
+	      <li class="nav-item">
+	        <a class="nav-link" href="#">Contact</a>
+	      </li>
+	    </ul>
+	  </div>  
+	</nav>
+
+	<!-- Main Content -->
+	<div class="container mt-3">
+	  <h1>Welcome to Worldwide Musical Tutors</h1>
+	  <hr>
+	  <div class="row">
+	    <div class="col-md-6">
+	      <h2>About Us</h2>
+	      <p>We are a non-profit organization dedicated to providing free musical lessons to children around the world.</p>
+	      <p>Our volunteer tutors are passionate about music and committed to helping children develop their musical skills and talents.</p>
+	    </div>
+	    <div class="col-md-6">
+	      <h2>Our Tutors</h2>
+	      <p>We have a team of experienced music teachers and performers who are eager to share their knowledge and skills with young musicians.</p>
+	      <p>Our tutors come from a variety of musical backgrounds and specialties, including classical, jazz, rock, and more.</p>
+	    </div>
+	  </div>
+	</div>
+
+	<!-- Footer -->
+	<footer class="page-footer font-small bg-dark text-white mt-3">
+	    <div class="container">
+	      <div class="row">
+	        <div class="col-md-12">
+	          <h5 class="text-center">Contact Us</h5>
+	          <hr>
+	          <p class="text-center">Email: info@worldwidemusicaltutors.com</p>
+	          <p class="text-center">Phone: 555-1234</p>
+	        </div>
+	      </div>
+	    </div>
+	</footer>
+
+</body>
+</html>
